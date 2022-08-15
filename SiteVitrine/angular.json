@@ -106,5 +106,7 @@
       }
     }
   },
-  "defaultProject": "SiteVitrine"
+  "cli": {
+    "analytics": "3866f186-a4e1-4852-9994-3afbc43e91e7"
+  }
 }

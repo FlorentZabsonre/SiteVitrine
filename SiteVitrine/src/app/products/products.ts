@@ -1,11 +1,13 @@
-export class Products{
+ export class Products{
    id! : number;
-   productName : string;  
+   productName : string;
    picture : string;
    price : number;
     constructor(productName: string, picture: string, price: number) {
         this.productName = productName;
         this.picture = picture;
         this.price = price;
-    }
+  }
+
+
 }
